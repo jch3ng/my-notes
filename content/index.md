@@ -5,7 +5,10 @@ title: Home
 
 [[Quartz]]
 
-[[entity]]
+[[content/Cards/entity]]
 
-[[youtube_video]]
+[[content/entities/youtube_video]]
+
+
+[[howtos]]
 

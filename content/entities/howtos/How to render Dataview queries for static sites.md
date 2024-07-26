@@ -1,3 +1,6 @@
+---
+entity: "[[howto]]"
+---
 
 ## Methods
 ### GitHub Publisher

@@ -1,3 +1,6 @@
+---
+entity: "[[howto]]"
+---
 
 `dv.queryMarkdown` can write to a file. In my case, I only use Templater for my Daily Note template:
 
