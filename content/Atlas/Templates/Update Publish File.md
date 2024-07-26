@@ -1,130 +1,35 @@
 <%*
-dv = this.app.plugins.plugins["dataview"].api;
-const fileTitle = tp.file.title;
-const query = `LIST from [[youtube_video]] where entity = [[youtube_video]]`; 
-const queryOutput = await dv.queryMarkdown(query);
+const dv = app.plugins.plugins["dataview"].api;
 
-const fileContent = `---\nentity: entity\n---\n\n${queryOutput}.value`;
+const fileAndQuery = new Map([
+  [
+    "youtube_video",
+    'LIST from [[youtube_video]] where entity = [[youtube_video]]'
+  ],
+  [
+    "entity",
+    'LIST from [[entity]] where entity = [[entity]]'
+  ],
+]);
 
-// write to file
-const filename = "youtube_video";
-const tFile = tp.file.find_tfile(filename);
-await app.vault.modify(tFile, fileContent.value);
+await fileAndQuery.forEach(async (query, filename) => {
+  if (!tp.file.find_tfile(filename)) {
+    await tp.file.create_new("", filename);
+    new Notice(`Created ${filename}.`);
+  }
+  const tFile = tp.file.find_tfile(filename);
+  const queryOutput = await dv.queryMarkdown(query);
+  const fileContent = `---\nentity: "[[entity]]"\n---\n%% update via "Update Publish Files" template %% \n\n${queryOutput.value}`;
+  try {
+    await app.vault.modify(tFile, fileContent);
+    new Notice(`Updated ${tFile.basename}.`);
+  } catch (error) {
+    new Notice("⚠️ ERROR updating! Check console. Skipped file: " + filename , 0);
+  }
+});
+
+
 %>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

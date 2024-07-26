@@ -1,0 +1,15 @@
+
+```dataview
+LIST from [[entity]] where entity = [[entity]]
+```
+
+
+```
+const output = await dv.queryMarkdown(query);
+const text = `---\nentity: entity\n---\n\n${output.value}`;
+
+// write to file
+const target_file = "entity";
+const tFile = tp.file.find_tfile(target_file);
+await app.vault.modify(tFile, text);
+```
