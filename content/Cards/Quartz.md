@@ -13,7 +13,9 @@ See the [documentation](https://quartz.jzhao.xyz) for how to get started.
 
 ## Notes
 
-`quartz/components/Footer.tsx`
+[[How to clean out Quartz branding]]
+
+
 
 
 [[How to comment in Typescript]]
