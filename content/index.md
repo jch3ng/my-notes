@@ -5,4 +5,6 @@ title: Home
 
 [[Quartz]]
 
+[[entity]]
+[[youtube_video]]
 
