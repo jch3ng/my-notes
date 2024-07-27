@@ -1,7 +1,18 @@
 ---
-entity: "[[youtube_video]]"
+entity: "[[podcast_episode]]"
+youtube: 
+"":
 ---
+
+
+
+
 ![[Jorge Arango. Redefining Note-Taking and the Art of Knowledge Organization#^bilapa]]
+
+
+![[Jorge Arango. Redefining Note-Taking and the Art of Knowledge Organization#^xcgm0d]]
+
+![[Jorge Arango. Redefining Note-Taking and the Art of Knowledge Organization#^fady1n]]
 
 
 ```timestamp-url  
@@ -128,10 +139,21 @@ People have been thinking about this since at least the 1960s, and there have be
 
 And the idea there is, again, you don't approach these tools with a traditional note taking mindset. You approach them with the idea that you're going to be capturing thoughts in a network. That's a very different metaphor than the notebook metaphor that we grew up with. ^bilapa
 
+Right? 
 
-Right? That's why I am focusing this book on digital because with computers, all of a sudden, we have capabilities that have never been available to us before.
 
-And so far, most of us have been using them as though they are glorified paper notebooks, but they can be so much more. And I want to show people how to take advantage of that.
+```timestamp 
+ 19:04
+ ```
+
+
+That's why I am focusing this book on digital because with computers, all of a sudden, we have capabilities that have never been available to us before. ^xcgm0d
+
+```timestamp 
+ 19:18
+ ```
+
+And so far, most of us have been using them as though they are glorified paper notebooks, but they can be so much more. And I want to show people how to take advantage of that. ^fady1n
 
 ZAHRA: Awesome. Yeah. I never thought of it that way. I have used Keep, and I use [[OneNote]], but I haven't used [[Obsidian]] or I've heard of [[Notion]], but I haven't used it. To think of these notes that are networked and that have these abstract connections and how you can organize it that is different from your physical world, I think that makes sense.
 
@@ -139,15 +161,21 @@ So yeah. And I did take that away from the book. I think you talked about hypert
 
 So I think probably a lot of the audience might be able to relate to what you're talking or sharing in your book, just that they haven't thought about it intentionally.
 
-JORGE ARANGO: You know, that is my experience as well. When people hear about this stuff, they're like, oh, there's this recognition that I understand what you're saying here. Yeah. I didn't realize that there were practices that you could put in place to do it better. That's a common reaction I'm getting with this book.
+JORGE ARANGO: You know, that is my experience as well. When people hear about this stuff, they're like, oh, there's this recognition that I understand what you're saying here. I didn't realize that there were practices that you could put in place to do it better. That's a common reaction I'm getting with this book.
 
-ZAHRA: Yeah. Definitely. Now another thing that connected with me was when you're taking notes, you're sort of it's a means for extending your mind, but the media matters. That was another takeaway from the book for me. And that's when you start thinking about how you are taking handwritten notes.
+ZAHRA: Yeah. Definitely. Now another thing that connected with me was when you're taking notes, you're sort of it's a means for extending your mind, but the medium matters. That was another takeaway from the book for me. And that's when you start thinking about how you are taking handwritten notes.
 
 Now somewhere I read, I don't know where, that handwritten notes help you with memory retention. In your opinion, does digital note taking provide that same benefit, that same advantage?
 
+### does digital note taking help with memory retention?
+
 JORGE ARANGO: I think I've read the articles that you are referring to. I have to say I've also experienced it firsthand. I do take handwritten notes. I'm taking handwritten notes now. I think it's worth pinching and zooming into this idea of notes as a way of extending your mind because I think that that is the actually, that is the core idea behind this book.
 
-And it's something that I think, yet again, it's one of these things that a lot of us might have understood intuitively, but haven't maybe thought about in an organized or systematic way. But I think that notes have something of a PR problem in that. When I was writing the book and I and I told people I'm, you know, I'm working on a book about notes, I found that I got one of 2 reactions. One reaction I got was some people would say, oh, I need that. You know, I need a book to take better notes.
+And it's something that I think, yet again, it's one of these things that a lot of us might have understood intuitively, but haven't maybe thought about in an organized or systematic way. 
+
+### I think that notes have something of a PR problem
+
+But I think that notes have something of a PR problem in that. When I was writing the book and I and I told people I'm, you know, I'm working on a book about notes, I found that I got one of 2 reactions. One reaction I got was some people would say, oh, I need that. You know, I need a book to take better notes.
 
 And some people would ask something like, really notes? Why do I need a whole book about notes? Yeah. I can take notes. Right.
 
@@ -159,7 +187,9 @@ But if you think about it, those two actions are very different and they have ve
 
 That is a kind of node too, and that's yet a different use for notes. Right? The thing that they all have in common. And I think, by the way, I think that when I say notes, most people think of the supermarket list, and they think of a note as something that you make to augment your memory. It's like, I want to remember to bring home the milk, that kind of thing.
 
-Right? But if you think about the 3 cases that I've mentioned here, the grocery list, the Kindle highlights, and the outline or project plan that you're writing on a piece of paper. The thing that they have in common is that all of them are extending your cognitive abilities. They are helping you think more effectively. In one case, the thinking is about remembering.
+Right? But if you think about the 3 cases that I've mentioned here, the grocery list, the Kindle highlights, and the outline or project plan that you're writing on a piece of p
+
+aper. The thing that they have in common is that all of them are extending your cognitive abilities. They are helping you think more effectively. In one case, the thinking is about remembering.
 
 In another case, it's about planning. In the Kindle case, it might be something like internalizing what you're reading or maybe reminding you later of what was most important about a particular book or a particular chapter. All of these are extensions of your mind. Another, easy way to visualize this is whenever you solve a math problem using a piece of paper or a pencil, it's much easier to do that than to just do it using your brain, you know, on its own. Notes in all of their guises are a technology for cognitive augmentation.
 

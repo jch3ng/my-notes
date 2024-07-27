@@ -1,5 +1,17 @@
 ---
-entity: "[[content/entities/youtube_video]]"
+entity: "[[podcast_episode]]"
 ---
 https://www.youtube.com/watch?v=YCvV7Izqggc
+
+
+
+
+
+
+
+
+
+
+
+
 

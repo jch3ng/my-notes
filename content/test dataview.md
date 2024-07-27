@@ -1,6 +1,6 @@
 
 ```dataview
-LIST from [[entity]] where entity = [[entity]] and file.name != "entity"
+LIST where entity = [[youtube_video]] 
 ```
 
 
