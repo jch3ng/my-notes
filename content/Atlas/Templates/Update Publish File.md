@@ -24,13 +24,12 @@ const fileAndQuery = new Map([
   ],
   [
     "entity",
-    'LIST where entity = [[entity]] and file.name != "entity"'
+    'LIST where entity = [[entity]]'
   ],
   [
     "howto",
-    'LIST where entity = [[howto]] and file.name != "howto"'
-  ],
-
+    'LIST where entity = [[howto]]'
+  ]
 ]);
 
 await fileAndQuery.forEach(async (query, filename) => {
@@ -43,7 +42,7 @@ await fileAndQuery.forEach(async (query, filename) => {
   const queryOutput = await dv.queryMarkdown(query);
 
   queryOutput.value = queryOutput.value.replace(/content\//g, '')
-  const fileContent = `---\nentity: "[[entity]]"\n---\n\n${entity_link}\n${queryOutput.value}`;
+  const fileContent = `---\nentity: "[[entity]]"\n---\n${queryOutput.value}`;
   try {
     await app.vault.modify(tFile, fileContent);
     new Notice(`Updated ${tFile.basename}.`);
@@ -52,6 +51,30 @@ await fileAndQuery.forEach(async (query, filename) => {
   }
 });
 %>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
