@@ -1,9 +1,6 @@
 ---
 entity: "[[howto]]"
 ---
-
-
-
 ## Remove GitHub and Discord Links
 
 go to `quartz.layout.ts` and comment out these lines: 

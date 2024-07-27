@@ -1,6 +1,8 @@
 ---
 title: Home
 ---
+[[About]]
+
 
 - [[entity]]
 	- [[howto]]
