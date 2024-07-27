@@ -1,7 +1,6 @@
 ---
 entity: "[[entity]]"
 ---
-%% update via "Update Publish Files" template %% 
  
 - [[entities/book.md|book]]
 - [[entities/howto.md|howto]]

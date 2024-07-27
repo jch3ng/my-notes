@@ -1,8 +1,7 @@
 ---
 entity: "[[entity]]"
 ---
-%% update via "Update Publish Files" template %% 
-up: [[entity]]
+
 - [[entities/howtos/How to clean out Quartz branding.md|How to clean out Quartz branding]]
 - [[entities/howtos/How to comment in Typescript.md|How to comment in Typescript]]
 - [[entities/howtos/How to publish Obsidian notes with Quartz on GitHub Pages.md|How to publish Obsidian notes with Quartz on GitHub Pages]]
