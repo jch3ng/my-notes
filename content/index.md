@@ -1,14 +1,11 @@
 ---
 title: Home
 ---
-[[Brandon Boswell. Obsidian, Quartz 4 and Open Source with Jacky Zhao]]
 
-[[Quartz]]
+- [[entity]]
+	- [[howtos]]
+	- [[youtube_video]]
 
-[[content/Cards/entity]]
+- [[Quartz]]
 
-[[content/entities/youtube_video]]
-
-
-[[howtos]]
 

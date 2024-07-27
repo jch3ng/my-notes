@@ -1,6 +1,6 @@
 
 ```dataview
-LIST from [[entity]] where entity = [[entity]]
+LIST from [[entity]] where entity = [[entity]] and file.name != "entity"
 ```
 
 

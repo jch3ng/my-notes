@@ -1,3 +1,0 @@
----
-entity: "[[content/entity]]"
----
