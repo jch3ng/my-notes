@@ -1,6 +1,7 @@
 ---
 entity: "[[youtube_video]]"
 ---
+![[Jorge Arango. Redefining Note-Taking and the Art of Knowledge Organization#^bilapa]]
 
 
 ```timestamp-url  
@@ -123,9 +124,12 @@ And over the last, I would say 3 years, there are new products that have been co
 
 These newfangled note taking apps allow you to do with your notes something that is very similar to the way that Wikipedia works, where you can create arbitrary links between them. Now this capability, I have to emphasize this, this is not new stuff.
 
-People have been thinking about this since at least the 1960s, and there have been experiments and even commercial products that allow you to do this for many, many decades. The thing is that over the last 3 years, there have started to become available more mainstream products that make these capabilities very easily accessible to people. In the book, I talk a lot about Obsidian, which is one of these products, but it's not the only one. There's a product called Roam Research. One that a lot of people will have heard of is Notion, which has some of these characteristics as well.
+People have been thinking about this since at least the 1960s, and there have been experiments and even commercial products that allow you to do this for many, many decades. The thing is that over the last 3 years, there have started to become available more mainstream products that make these capabilities very easily accessible to people. In the book, I talk a lot about [[Obsidian]], which is one of these products, but it's not the only one. There's a product called [[Roam Research]]. One that a lot of people will have heard of is [[Notion]], which has some of these characteristics as well.
 
-And the idea there is, again, you don't approach these tools with a traditional note taking mindset. You approach them with the idea that you're going to be capturing thoughts in a network. That's a very different metaphor than the notebook metaphor that we grew up with. Right? That's why I am focusing this book on digital because with computers, all of a sudden, we have capabilities that have never been available to us before.
+And the idea there is, again, you don't approach these tools with a traditional note taking mindset. You approach them with the idea that you're going to be capturing thoughts in a network. That's a very different metaphor than the notebook metaphor that we grew up with. ^bilapa
+
+
+Right? That's why I am focusing this book on digital because with computers, all of a sudden, we have capabilities that have never been available to us before.
 
 And so far, most of us have been using them as though they are glorified paper notebooks, but they can be so much more. And I want to show people how to take advantage of that.
 
