@@ -4,6 +4,10 @@ const dv = app.plugins.plugins["dataview"].api;
 
 const fileAndQuery = new Map([
   [
+    "book",
+    'LIST where entity = [[book]]'
+  ],
+  [
     "podcast_episode",
     'LIST where entity = [[podcast_episode]]'
   ],
@@ -42,5 +46,3 @@ await fileAndQuery.forEach(async (query, filename) => {
   }
 });
 %>
-
-
