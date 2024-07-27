@@ -3,7 +3,7 @@ title: Home
 ---
 
 - [[entity]]
-	- [[howtos]]
+	- [[howto]]
 	- [[youtube_video]]
 
 - [[Quartz]]
