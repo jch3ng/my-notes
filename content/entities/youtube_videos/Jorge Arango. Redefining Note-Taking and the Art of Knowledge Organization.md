@@ -107,11 +107,21 @@ And what's happened with note taking is that the way that most of us take digita
 
 And for example, a lot of people use [[OneNote]], right, Microsoft's OneNote application. And OneNote explicitly tries to mimic the interface of a binder with section dividers and pages. And it does some quirky things. Like you can have pages that stand in a hierarchical relationship with other pages. Right.
 
-Which real world paper does not do. But the primary metaphor is that of some kind of binder. An app like the notes app on the iPhone or [[Google Keep]] on Android phones, in many ways, they mimic something like a pocket notebook where basically you have a you can think of it as a page or a new note where you're writing down ideas. Right? And, again, they employ at least the Apple Notes app employs the folder metaphor where you can store these little notes in these folders.
+Which real world paper does not do. But the primary metaphor is that of some kind of binder. An app like the notes app on the iPhone or [[Google Keep]] on Android phones, in many ways, they mimic something like a pocket notebook where basically you have a you can think of it as a page or a new note where you're writing down ideas. Right? And, again, they employ at least the [[Apple Notes]] app employs the folder metaphor where you can store these little notes in these folders.
 
-That is a very useful interface to bring you in, to bring in new users. Right? But it's not the only metaphor, the only interface that you could use when saving notes digitally. There's nothing about computers that says these things need to be in folders or in, you know, individual notes that mimic paper. There's a lot of things that you could do with computers.
+That is a very useful interface to bring you in, to bring in new users. Right? But it's not the only metaphor, the only interface that you could use when saving notes digitally. 
 
-And over the last, I would say 3 years, there are new products that have been coming on the market that basically break free of the metaphors used by traditional note taking apps and allow you to create sets of notes that link to each other in much the same way that pages in Wikipedia link to each other. Right? Like if you think of Wikipedia, it's this large collection of articles about all sorts of different things, and they have links in them that point to other articles. These newfangled note taking apps allow you to do with your notes something that is very similar to the way that Wikipedia works, where you can create arbitrary links between them. Now this capability, I have to emphasize this, this is not new stuff.
+There's nothing about computers that says "these things need to be in folders" or in, you know, individual notes that mimic paper. There's a lot of things that you could do with computers.
+
+### next gen note taking apps
+
+```timestamp 
+ 17:14
+ ```
+
+And over the last, I would say 3 years, there are new products that have been coming on the market that basically break free of the metaphors used by traditional note taking apps and allow you to create sets of notes that link to each other in much the same way that pages in Wikipedia link to each other. Right? Like if you think of Wikipedia, it's this large collection of articles about all sorts of different things, and they have links in them that point to other articles. 
+
+These newfangled note taking apps allow you to do with your notes something that is very similar to the way that Wikipedia works, where you can create arbitrary links between them. Now this capability, I have to emphasize this, this is not new stuff.
 
 People have been thinking about this since at least the 1960s, and there have been experiments and even commercial products that allow you to do this for many, many decades. The thing is that over the last 3 years, there have started to become available more mainstream products that make these capabilities very easily accessible to people. In the book, I talk a lot about Obsidian, which is one of these products, but it's not the only one. There's a product called Roam Research. One that a lot of people will have heard of is Notion, which has some of these characteristics as well.
 
