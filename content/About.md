@@ -1,1 +1,1 @@
-I joined the [[Obsidian]] bandwagon around October 2021. This is my "digital garden" of notes. For various reasons I don't [work with the garage door up](https://notes.andymatuschak.org/Work_with_the_garage_door_up)  (but I respect this, and maybe I'll get there). One goal: demonstrate the emergent value of notes. 
+I joined the [[Obsidian]] bandwagon around October 2021. This is my "digital garden" of notes. For various reasons I don't currently [work with the garage door up](https://notes.andymatuschak.org/Work_with_the_garage_door_up)  but working towards my certification.
