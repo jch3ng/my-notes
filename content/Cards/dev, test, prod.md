@@ -1,6 +1,13 @@
 ---
 wikipedia: https://en.wikipedia.org/wiki/Deployment_environment
 ---
+```mermaid
+graph LR
+    A[Dev] --> B[Test]
+    B --> C[Prod]
+
+```
+
 dev, test, prod means different things to different people. In the context of my set of digital gardens (Obsidian vaults) notes/ideas fall into these categories:
 
 - `dev`: these are ideas I explore on my own. I might not ever talk about them but they seem worth caching (because [[Collector’s Fallacy|being a collector is okay|]]). They are [[Obsidian]] notes where I can meander, explore. It might not connect to any project (currently). It might be day-to-day trivia... like I log what I ate the other day... 
