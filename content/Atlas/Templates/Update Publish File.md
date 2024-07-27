@@ -4,6 +4,14 @@ const dv = app.plugins.plugins["dataview"].api;
 
 const fileAndQuery = new Map([
   [
+    "podcast",
+    'LIST where entity = [[podcast]]'
+  ],
+  [
+    "person",
+    'LIST where entity = [[person]]'
+  ],
+  [
     "book",
     'LIST where entity = [[book]]'
   ],
@@ -13,15 +21,15 @@ const fileAndQuery = new Map([
   ],
   [
     "youtube_video",
-    'LIST from [[youtube_video]] where entity = [[youtube_video]]'
+    'LIST where entity = [[youtube_video]]'
   ],
   [
     "entity",
-    'LIST from [[entity]] where entity = [[entity]] and file.name != "entity"'
+    'LIST where entity = [[entity]] and file.name != "entity"'
   ],
   [
     "howto",
-    'LIST from [[howto]] where entity = [[howto]] and file.name != "howto"'
+    'LIST where entity = [[howto]] and file.name != "howto"'
   ],
 
 ]);
@@ -46,3 +54,9 @@ await fileAndQuery.forEach(async (query, filename) => {
   }
 });
 %>
+
+
+
+
+
+
