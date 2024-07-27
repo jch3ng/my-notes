@@ -3,9 +3,9 @@ entity: "[[entity]]"
 ---
 %% update via "Update Publish Files" template %% 
  
-- [[content/entities/book.md|book]]
-- [[content/entities/howto.md|howto]]
-- [[content/entities/podcast_episode.md|podcast_episode]]
-- [[content/entities/youtube_video.md|youtube_video]]
-- [[content/entities/person.md|person]]
-- [[content/entities/podcast.md|podcast]]
+- [[entities/book.md|book]]
+- [[entities/howto.md|howto]]
+- [[entities/podcast_episode.md|podcast_episode]]
+- [[entities/youtube_video.md|youtube_video]]
+- [[entities/person.md|person]]
+- [[entities/podcast.md|podcast]]

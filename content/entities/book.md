@@ -3,4 +3,4 @@ entity: "[[entity]]"
 ---
 %% update via "Update Publish Files" template %% 
 up: [[entity]]
-- [[content/entities/books/Duly Noted.md|Duly Noted]]
+- [[entities/books/Duly Noted.md|Duly Noted]]
