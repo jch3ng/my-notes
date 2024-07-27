@@ -8,6 +8,7 @@ title: Home
 	- [[book]]
 	- [[howto]]
 	- [[person]]
+	- [[podcast]]
 	- [[podcast_episode]]
 	- [[youtube_video]]
 
