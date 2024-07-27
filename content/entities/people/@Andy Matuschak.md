@@ -1,0 +1,5 @@
+---
+entity: "[[person]]"
+link: 
+linkedin:
+---
